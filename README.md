@@ -1,4 +1,4 @@
-Configure the preferred language and adjust the lines in the main file (main.py) and in the functions located in func.
+Choose the name you want to use to activate it, configure the preferred language and adjust the lines in the main file (main.py) and in the functions located in /func.
 
 The current functions are:
 * Greetings
