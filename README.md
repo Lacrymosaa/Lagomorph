@@ -3,7 +3,7 @@ Choose the name you want to use to activate it, configure the preferred language
 The current functions are:
 * Greetings
 * Spotify to skip and pause music (need Premium and integrate with Spotify for developers API)
-*Search on Google
+* Search on Google
 * Send Whatsapp message using nicknames for numbers
 * Weather function, cause its very important
 
